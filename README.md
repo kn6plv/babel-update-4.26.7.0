@@ -12,7 +12,7 @@ Should I install?
    If you have more memory then this fix will do nothing. Yes you're wasting 4M of memory, but you node is under no memory pressure so there will be no operational difference. **If you have more than 64M of memory don't install this.**
 2. Is your node part of the *ath79* family?
    If you don't know you can check the supported device list which includes this information (see https://github.com/aredn/aredn/blob/main/SUPPORTED_DEVICES.md). In fact there is only one 64M node which isn't - the "LDF 5 ac" - contact me if you have that node and need this fix as the package below is not for you. **If your node isn't *ath79* don't install this.**
-3. Is your node running out of memory? If you're node isn't running out of memory then this fix wont change anything for you. The memory leak is a *maxiumu* of 4MB. **If you're not running out of memory now this fix won't change anything so don't install this.**
+3. Is your node running out of memory? If you're node isn't running out of memory then this fix wont change anything for you. The memory leak is a *maxiumum* of 4MB. **If you're not running out of memory now this fix won't change anything so don't install this.**
 
 Installing
 --
