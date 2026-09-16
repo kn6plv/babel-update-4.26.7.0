@@ -19,7 +19,7 @@ Installing
 
 If you still need to install this fix then download the single Babel package found here:
 
-XXX
+https://github.com/kn6plv/babel-update-4.26.7.0/raw/refs/heads/main/babel-1.13.1-r2.apk
 
 Rather than installing entirely new firmware, we are just install this fix. You can find instructions on how to do this in the documentation here:
 
